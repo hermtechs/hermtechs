@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hermtechs realName:Herbert
 - 👀 I’m interested in ... all languages but javascript is my favorite
+- I Am open to web development gigs
 - 🌱 I’m currently learning {wish github could detect n update this automatically  cuz am learning something new every sec}...
 - 💞️ I’m looking to collaborate on any fun projects that add value to the world ...
 - 📫 You can reach me via twitter @muhiirwah

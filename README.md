@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hermtechs realName:Herbert
+- 👋 Hi, I’m @hermtechs a.k.a: Herbert
 - 👀 I’m interested in ... Nodejs, React, Javascript at large
 - I Am open to web development gigs
 - 🌱 I’m currently learning React
